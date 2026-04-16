@@ -25,5 +25,14 @@
     "description": "With the Spotify music and podcast app, you can play millions of songs, albums and original podcasts for free.",
     "apk_url": "https://github.com/paswotz/mg4-launcher-apps/releases/download/v1.0/com.spotify.music.apk",
     "size_bytes": 129474393
+  },
+  {
+    "id": "mgcontrol",
+    "name": "MGControl",
+    "package": "MGControl2.5.0.apk",
+    "version": "2.5.0",
+    "description": "MG4Control is a system-level application designed for Android Automotive OS, intended to run on the head unit of MG4 electric vehicles equipped with the SAIC MT2712 SoC. It provides direct, unified access to driving settings that are unavailable — or poorly accessible — through the stock manufacturer interface.",
+    "apk_url": "https://github.com/paswotz/mg4-launcher-apps/releases/download/v1.0/MGControl2.5.0.apk",
+    "size_bytes": 15903071
   }
 ]
